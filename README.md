@@ -1,6 +1,6 @@
-### Bem-vindo 👋 !
+## Bem-vindo 👋 !
 
-## Sou um Desenvolvedor Full-Stack animado para utilizar a criatividade para agregar mais valor no dia-a-dia das pessoas !
+### Sou um Desenvolvedor Full-Stack animado para utilizar a criatividade para agregar mais valor no dia-a-dia das pessoas !
 
 - 💻 Criando soluções de Aplicações Web com JavaScript/TypeScript e React.
 - 🛠️ Desenvolvimento de APIs com a tecnlogia NodeJS
